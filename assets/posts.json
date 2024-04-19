@@ -1,0 +1,164 @@
+[
+  {
+    "id": "1",
+    "title": "Software Engineer",
+    "body": "We are seeking a talented software engineer to join our dynamic team. The ideal candidate will have experience in developing scalable and maintainable software solutions using modern technologies such as Java, Python, or JavaScript. Responsibilities include designing and implementing software components, debugging and troubleshooting issues, and collaborating with cross-functional teams to deliver high-quality products.",
+    "imageUrl": "assets/job1.jpg",
+    "isJob": false,
+    "company": "oracle",
+    "location": "Canada",
+    "user": {
+      "id": "user1",
+      "name": "Gurpreet Singh",
+      "imageUrl": "assets/user1.JPG",
+      "bio": "Passionate software engineer with experience in developing mobile and web applications.",
+      "isConnected": true
+    }
+  },
+  {
+    "id": "2",
+    "title": "Marketing Specialist",
+    "body": "We are looking for a creative and strategic marketing specialist to drive our marketing initiatives. The successful candidate will be responsible for developing and executing marketing campaigns, conducting market research, analyzing marketing data, and identifying new opportunities for growth. Strong communication and analytical skills are essential for this role, along with a passion for innovation and continuous improvement.",
+    "imageUrl": "assets/job2.jpg",
+    "isJob": true,
+    "company": "oracle",
+    "location": "Canada",
+    "user": {
+      "id": "user2",
+      "name": "Tanvir Singh",
+      "imageUrl": "assets/user2.png",
+      "bio": "dedicated to continuous learning and staying updated with the latest technologies",
+      "isConnected": false
+    }
+  },
+  {
+    "id": "3",
+    "title": "Data Scientist",
+    "body": "We are looking for an experienced data scientist to join our team. The ideal candidate will have expertise in machine learning, statistical analysis, and data visualization. Responsibilities include analyzing complex datasets, developing predictive models, and providing actionable insights to drive business decisions.",
+    "imageUrl": "assets/job3.jpg",
+    "isJob": true,
+    "company": "oracle",
+    "location": "Canada",
+    "user": {
+      "id": "user3",
+      "name": "Amal Kuriakose",
+      "imageUrl": "assets/user3.png",
+      "bio": "tech is my passion, i live for it.",
+      "isConnected": false
+    }
+  },
+  {
+    "id": "4",
+    "title": "Frontend Developer",
+    "body": "We are seeking a frontend developer to build user interfaces for web applications. The ideal candidate will have proficiency in HTML, CSS, and JavaScript frameworks such as React or Angular. Responsibilities include translating design wireframes into responsive web pages, optimizing application performance, and collaborating with backend developers to integrate frontend components.",
+    "imageUrl": "assets/job4.jpg",
+    "isJob": true,
+    "company": "oracle",
+    "location": "Canada",
+    "user": {
+      "id": "user4",
+      "name": "User 4",
+      "imageUrl": "assets/user4.jpg",
+      "bio": "User 4 bio goes here",
+      "isConnected": false
+    }
+  },
+  {
+    "id": "5",
+    "title": "UX/UI Designer",
+    "body": "We are looking for a talented UX/UI designer to create intuitive and visually appealing user interfaces. The ideal candidate will have experience in user research, wireframing, prototyping, and design tools such as Sketch or Adobe XD. Responsibilities include designing user flows, conducting usability tests, and collaborating with cross-functional teams to deliver exceptional user experiences.",
+    "imageUrl": "assets/job5.jpg",
+    "isJob": true,
+    "company": "oracle",
+    "location": "Canada",
+    "user": {
+      "id": "user5",
+      "name": "User 5",
+      "imageUrl": "assets/user5.png",
+      "bio": "User 5 bio goes here",
+      "isConnected": false
+
+    }
+  },
+  {
+    "id": "6",
+    "title": "Backend Developer",
+    "body": "We are seeking a backend developer to design and implement server-side logic and database structures for web applications. The ideal candidate will have expertise in programming languages such as Python, Node.js, or Java, and experience with database systems like MySQL or MongoDB. Responsibilities include developing APIs, optimizing application performance, and ensuring scalability and security.",
+    "imageUrl": "assets/job6.jpg",
+    "isJob": true,
+    "company": "oracle",
+    "location": "Canada",
+    "user": {
+      "id": "user6",
+      "name": "User 6",
+      "imageUrl": "assets/user1.jpg",
+      "bio": "User 6 bio goes here",
+      "isConnected": false
+    }
+  },
+  {
+    "id": "7",
+    "title": "Product Manager",
+    "body": "We are looking for a product manager to lead the development and execution of product strategies. The ideal candidate will have experience in product management, market research, and product lifecycle management. Responsibilities include defining product vision, prioritizing features, and collaborating with cross-functional teams to deliver successful product launches.",
+    "imageUrl": "assets/job7.jpg",
+    "isJob": true,
+    "company": "oracle",
+    "location": "Canada",
+    "user": {
+      "id": "user7",
+      "name": "User 7",
+      "imageUrl": "assets/user2.png",
+      "bio": "User 7 bio goes here",
+      "isConnected": false
+    }
+  },
+  {
+    "id": "8",
+    "title": "Quality Assurance Engineer",
+    "body": "We are seeking a quality assurance engineer to ensure the quality and reliability of our software products. The ideal candidate will have experience in manual and automated testing techniques, test planning, and defect tracking. Responsibilities include designing test cases, executing test plans, and providing feedback to the development team for continuous improvement.",
+    "imageUrl": "assets/job8.jpg",
+    "isJob": false,
+    "company": "oracle",
+    "location": "Canada",
+    "user": {
+      "id": "user8",
+      "name": "User 8",
+      "imageUrl": "assets/user3.png",
+      "bio": "User 8 bio goes here",
+      "isConnected": true
+    }
+  },
+  {
+    "id": "9",
+    "title": "Business Analyst",
+    "body": "We are looking for a business analyst to analyze business processes and identify opportunities for improvement. The ideal candidate will have experience in data analysis, requirement gathering, and documentation. Responsibilities include conducting stakeholder interviews, analyzing business metrics, and recommending solutions to enhance operational efficiency.",
+    "imageUrl": "assets/job9.jpg",
+    "isJob": false,
+    "company": "oracle",
+    "location": "Canada",
+    "user": {
+      "id": "user9",
+      "name": "User 9",
+      "imageUrl": "assets/user4.jpg",
+      "bio": "User 9 bio goes here",
+      "isConnected": true
+    }
+  },
+  {
+    "id": "10",
+    "title": "DevOps Engineer",
+    "body": "We are seeking a DevOps engineer to automate and streamline our software development processes. The ideal candidate will have expertise in cloud platforms, containerization, and CI/CD pipelines. Responsibilities include configuring infrastructure, implementing monitoring tools, and optimizing deployment workflows for continuous integration and delivery.",
+    "imageUrl": "assets/job10.jpg",
+    "isJob": true,
+    "company": "oracle",
+    "location": "Canada",
+    "user": {
+      "id": "user10",
+      "name": "User 10",
+      "imageUrl": "assets/user5.png",
+      "bio": "User 10 bio goes here",
+      "isConnected": false
+    }
+  }
+
+]
